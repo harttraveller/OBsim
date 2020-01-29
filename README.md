@@ -1,6 +1,10 @@
 # Description
 OBsim: Outbreak simulation | **Refer to Wuhan Outbreak Model.pdf**
 
+# Images
+<img src="images/bar.png" width="500" height="300">
+<img src="images/line.png" width="500" height="300">
+
 # Dependencies
 - numpy
 - plotly
