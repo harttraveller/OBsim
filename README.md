@@ -1,5 +1,5 @@
 # Description
-OBsim: Outbreak simulation | **Refer to report.pdf**
+OBsim: Outbreak simulation | **Refer to Wuhan Outbreak Model.pdf**
 
 # Dependencies
 - numpy
