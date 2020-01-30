@@ -1,15 +1,15 @@
 # Description
-OBsim: Outbreak simulation | **Refer to Wuhan Outbreak Model.pdf**
-
-# Images
-<img src="images/bar.png" width="500" height="350">
-<img src="images/line.png" width="500" height="300">
+OBsim: Outbreak simulation program
 
 # Dependencies
 - numpy
 - plotly
 - pandas
 - python 3.7
+
+# Tutorial
+
+refer to tutorial.ipynb
 
 # Parameters
 
@@ -50,6 +50,4 @@ OBsim: Outbreak simulation | **Refer to Wuhan Outbreak Model.pdf**
 - range: [ 0, inf]
 
 
-# Tutorial
 
-refer to tutorial.ipynb
