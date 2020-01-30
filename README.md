@@ -25,6 +25,10 @@ refer to tutorial.ipynb
 - descr: starting awareness of virus, ranges from 0 to 1, increases based on multiplier so a 0 value will never increase
 - range: [ 0, 1 ]
 
+#### max_awareness
+- descr: maximum internal awareness value - can not grow past this point
+- range: [ 0, 1 ]
+
 #### awareness_growth_rate
 - descr: Daily percentage growth rate of awareness value
 - range: [ 0, inf ]
